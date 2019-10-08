@@ -1,0 +1,4 @@
+.idea
+venv
+features/*.pyc
+features/python
