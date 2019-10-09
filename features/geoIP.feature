@@ -12,7 +12,6 @@ Examples:
   | US        | en        | us    |
   | GB        | en        | gb    |
   | IN        | en        | in    |
-  | MX        | es        | mx    |
   | ES        | es        | es    |
   | BR        | pt        | br    |
   | CN        | zh        | cn    |
@@ -42,7 +41,6 @@ Examples:
   | CH        | de        | ch-de |
   | TW        | zh        | tw    |
   | KR        | ko        | kr    |
-  | CO        | es        | co    |
   | ZA        | en        | za    |
   | AE        | ar        | ae    |
   | VN	      | vi	      | vn    |

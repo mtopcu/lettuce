@@ -1,8 +1,8 @@
 from lettuce import *
 from splinter import Browser
 import requests
-import sys
 
+r = location = language = browser = None
 url = "https://www.sonymobile.com"
 
 
