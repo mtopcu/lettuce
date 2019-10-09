@@ -83,7 +83,7 @@ def i_go_to_group1(step, group1):
 
 @step('I should see the text "([^"]*)"')
 def i_should_see_the_text_group1(step, text):
-    t=browser.is_text_present(text)
+    t = browser.is_text_present(text)
     if t is False:
         browser.quit()
         assert t, 'Text not found!'
